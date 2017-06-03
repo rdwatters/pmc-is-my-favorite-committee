@@ -62,7 +62,11 @@
         * Rough draft of an article will be sent out review to original author group (Himchak, Hegner, Sconyers, Ruby) between Monday, June 5th and Friday June 9th (conference)
         * Current publish date is (tentatively) July 14th
             * After holiday
-            * Allows NIPC articles to rotate off "Featured Articles" section of members.cap.org
+            * Allows NIPC articles to rotate off "Featured Articles" section of members.cap.org and better coordination with social media promotion
+* **Next Steps:** Next article on the topic of "People Management" has a (tentative) publish date of August 2017
+    * Flexible
+    * First article with the new "Resources" subgroup: Fiedler, Hegner, Himchak, Spencer, Ruby, Breckenridge
+    *
 
 
 
