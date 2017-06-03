@@ -45,7 +45,8 @@
 * The [CAP.org Membership Content editorial calendar](https://docs.google.com/spreadsheets/d/1PY7stz-MtTOis6k6Qnzm9dcCA70G5golj9gFXeXX-oI/edit?usp=sharing), the single source of truth for all publishing dates and information
     * Coordinated with Julie McDowell, Social Media Manager
         * Now better coordination with social media to promote traffic
-    * New Calendar being developed with Communications beginning July 2017 to better
+    * New Calendar being developed with Communications beginning July 2017
+        * If approved, Digital and Communications will also start creating and promoting content aimed at CAP members who need materials to distribute to a patient-public audience
 
 ### Technology
 
@@ -62,7 +63,7 @@
         * Rough draft of an article will be sent out review to original author group (Himchak, Hegner, Sconyers, Ruby) between Monday, June 5th and Friday June 9th (conference)
         * Current publish date is (tentatively) July 14th
             * After holiday
-            * Allows NIPC articles to rotate off "Featured Articles" section of members.cap.org and better coordination with social media promotion
+            * Allows upcoming NIPC articles to rotate off "Featured Articles" section of members.cap.org to make room for the new PMC article(s)and better coordination with social media for multi-channel promotion
 
 
 ## Next Steps:
