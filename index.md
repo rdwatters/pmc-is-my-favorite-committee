@@ -72,7 +72,7 @@
     * First article with the new "Resources" subgroup: Fiedler, Hegner, Himchak, Spencer, Ruby, Breckenridge
     * [Google doc has already been created](https://docs.google.com/document/d/1d2gAxoE-fUbTOrzS_t-x2S4npkmq0JC7-l6N6gernXU/edit?usp=sharing)
         * Note the comments in the right margin
-        * If any others from the Content Development subgroup (i.e., the "Resources" subgroup) want to be proactive, please feel free to add any comments directly to this Google document.
+        * If any authors from the subgroup want to be proactive, please feel free to add any comments directly to this Google document.
 
 
 
