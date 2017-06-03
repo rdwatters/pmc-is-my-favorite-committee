@@ -1,6 +1,10 @@
 <style>
     *,*:before,*:after {
         font-family: 'Avenir Next','Avenir','helvetica neue',helvetica,arial,sans-serif;
+        font-weight:400;
+    }
+    a {
+        font-weight:500;
     }
     ol,li,ul,p {
         font-size:18px;
@@ -61,7 +65,7 @@
 
 ## Opportunities
 
-* Second article for PMC, "Descriptions of Practice Management Areas" fell into the maelstrom of other articles because of delayed in Q1, 2017
+* Second article for PMC, ["Descriptions of Practice Management Areas"](https://docs.google.com/document/d/1KKRpx8xL5IPQMlvq3lTKyNVFrdnwhYV7cli96ctXTcs/edit?usp=sharing) fell into the maelstrom of other articles because of delays in Q1, 2017
     * **Good news**
         * Scrapped previous versions of the article in favor of a new piece, compiled from old notes, meetings, CAP texts, and phone calls (thanks, Dr. Ruby)
         * Rough draft of an article will be sent out review to original author group (Himchak, Hegner, Sconyers, Ruby) between Monday, June 5th and Friday June 9th (conference)
