@@ -63,10 +63,16 @@
         * Current publish date is (tentatively) July 14th
             * After holiday
             * Allows NIPC articles to rotate off "Featured Articles" section of members.cap.org and better coordination with social media promotion
-* **Next Steps:** Next article on the topic of "People Management" has a (tentative) publish date of August 2017
+
+
+## Next Steps:
+
+* Next article on the topic of "People Management" has a (tentative) publish date of August 2017
     * Flexible
     * First article with the new "Resources" subgroup: Fiedler, Hegner, Himchak, Spencer, Ruby, Breckenridge
-    *
+    * [Google doc has already been created](https://docs.google.com/document/d/1d2gAxoE-fUbTOrzS_t-x2S4npkmq0JC7-l6N6gernXU/edit?usp=sharing)
+        * Note the comments in the right margin
+        * If any others from the Content Development subgroup (i.e., the "Resources" subgroup) want to be proactive, please feel free to add any comments directly to this Google document.
 
 
 
