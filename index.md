@@ -16,7 +16,11 @@
 ## Overview of New Editorial Direction
 
 * Introduced to 3 membership committees&mdash;RFEC, NIPC, PMC&mdash;in 2016
-* Production of articles kicked off for all committees in Q3 and Q4
+* Production of articles kicked off for all committees in Q3 and Q4 of 2016
+* Focus was to shift from "curated" lists and external resources to "long-form" content
+    * Similar to a more blog-like format
+    * Written in first person
+    * Focused on demonstrating expertise of CAP members, thereby indirectly promoting CAP membership as a whole...
 
 ## Stats
 
